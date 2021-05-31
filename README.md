@@ -7,7 +7,7 @@ I am working on:
 - 🌱 I’m currently learning MERN
 - 💬 Ask me about Programming
 - 📫 How to reach me: Instagram, Linkdin, Mail..
-- - #Devansh Singh Parmar
+- - Devansh Singh Parmar
 -->
 
 <p>
