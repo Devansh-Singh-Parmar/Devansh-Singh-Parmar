@@ -3,7 +3,7 @@
 
 I am working on:
 
-- 🔭 I’m currently working with !3 Team of @hashes_jmi
+- 🔭 I’m currently working on projects!
 - 🌱 I’m currently learning MERN
 - 💬 Ask me about Programming
 - 📫 How to reach me: Instagram, Linkdin, Mail..
