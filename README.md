@@ -3,12 +3,11 @@
 
 I am working on:
 
-- 🔭 I’m currently working on projects!
+- 🔭 I’m currently working on new projects!
 - 🌱 I’m currently learning programming stuff!
 - 💬 Ask me about Programming
 - 📫 How to reach me: Instagram, Linkdin, Mail..
-- - Devansh Singh Parmar
--->
+- Devansh Singh Parmar
 
 ### ⚙️ &nbsp;GitHub Analytics
 
