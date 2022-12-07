@@ -21,7 +21,7 @@ I am working on:
 
 
 <p>
-<a href="https://discordapp.com/users/741644029992632412"><img src="https://img.shields.io/badge/-wakerey-D14836?style=flat&logo=Discord&logoColor=white)"/></a>
+<a href="https://discordapp.com/users/741644029992632412"><img src="https://img.shields.io/badge/-wakerey-D14836?style=flat&logo=Discord&logoColor=Purple)"/></a>
 <a href="https://www.linkedin.com/in/devanshsingh13/"><img src="https://img.shields.io/badge/-Devansh Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:devansh18dp@gmail.com"><img src="https://img.shields.io/badge/-devansh18dp@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/rajput_sin_devansh"><img src="https://img.shields.io/badge/-sindevansh-D14836?style=flat&logo=Instagram&logoColor=white"/></a>
