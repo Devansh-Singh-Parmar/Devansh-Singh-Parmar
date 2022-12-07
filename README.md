@@ -19,10 +19,15 @@ I am working on:
 </p>
 
 
-
-<p>
-<a href="https://discordapp.com/users/741644029992632412"><img src="https://img.shields.io/badge/-wakerey-D14836?style=flat&logo=Discord&logoColor=Purple)"/></a>
-<a href="https://www.linkedin.com/in/devanshsingh13/"><img src="https://img.shields.io/badge/-Devansh Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:devansh18dp@gmail.com"><img src="https://img.shields.io/badge/-devansh18dp@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/rajput_sin_devansh"><img src="https://img.shields.io/badge/-sindevansh-D14836?style=flat&logo=Instagram&logoColor=white"/></a>
-</p>
+<hr />
+ 
+<h2 align="center">Connect with me<h2>
+ <div align="center">
+  <a href="https://www.linkedin.com/in/devanshsingh13/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/Devansh-Singh-Parmar"><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="mailto:devansh18dp@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://dev.to/devanshsinghparmar"><img alt="dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
+  <a href="https://www.youtube.com/channel/UChPSZLTJ4OLLsyKPIQXyVfA"><img alt="youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="https://www.instagram.com/rajput_sin_devansh/"><img alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://discordapp.com/users/741644029992632412"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+</div>
