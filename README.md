@@ -1,5 +1,5 @@
 ### Hi There, Devansh Here👋
-
+[![](https://visitcount.itsvg.in/api?id=Devansh-Singh-Parmar&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 I am working on:
 
