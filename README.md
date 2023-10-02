@@ -1,5 +1,4 @@
 ### Hi There, Devansh Here👋
-[![](https://visitcount.itsvg.in/api?id=Devansh-Singh-Parmar&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 I am working on:
 
@@ -22,6 +21,7 @@ I am working on:
 <hr />
  
 <h2 align="center">Connect with me<h2>
+[![](https://visitcount.itsvg.in/api?id=Devansh-Singh-Parmar&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
  <div align="center">
   <a href="https://www.linkedin.com/in/devanshsingh13/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/Devansh-Singh-Parmar"><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
