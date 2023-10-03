@@ -5,8 +5,7 @@ I am working on:
 - 🔭 I’m currently working on new projects!
 - 🌱 I’m currently learning programming stuff!
 - 💬 Ask me about Programming
-- 📫 How to reach me: Discord, Instagram, Linkdin, Mail..
-- Devansh Singh Parmar
+- 📫 How to reach me: Discord, Instagram, Linked In, Mail.
 - [![](https://visitcount.itsvg.in/api?id=Devansh-Singh-Parmar&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 ### ⚙️ &nbsp;GitHub Analytics
