@@ -1,13 +1,23 @@
 [![An image of @devanshsinghparmar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/devanshsinghparmar)](https://holopin.io/@devanshsinghparmar)
 
-### Hello there! Devansh this side. 👋
+<h1 align="center">Hi 👋, I'm Devansh Singh Parmar</h1>
+<h3 align="center">A passionate mern stack developer from India</h3>
 
 I am working on:
 
-- 🔭 I’m currently working on new projects!
-- 🌱 I’m currently learning programming stuff!
-- 💬 Ask me about Programming
-- 📫 How to reach me: Discord, Instagram, Linked In, Mail.
+- 🔭 I’m currently working to **create more projects!**
+
+- 🌱 I’m currently learning **nextjs**
+
+- 👯 I’m looking to collaborate on **new ideas.**
+
+- 👨‍💻 You may find my portfolio impressive! [devansh.pro](devansh.pro)
+
+- ⚡ I love to play [chess](https://www.chess.com/member/devansh-singh-parmar) whenever I'm free
+
+- 💬 Ask me about **react, javascript, mern stack, python.**
+
+- 📫 How to reach me **devansh18dp@gmail.com**
 - [![](https://visitcount.itsvg.in/api?id=Devansh-Singh-Parmar&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 ### ⚙️ &nbsp;GitHub Analytics
