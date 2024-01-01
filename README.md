@@ -3,19 +3,21 @@
 <h1 align="center">Hi 👋, I'm Devansh Singh Parmar</h1>
 <h3 align="center">A passionate mern stack developer from India</h3>
 
-I am working on:
+I am working on the following:
 
-- 🔭 I’m currently working to **create more projects!**
+- 🔭 I’m currently working to **finally develop a line follower**
 
 - 🌱 I’m currently learning **nextjs**
 
 - 👯 I’m looking to collaborate on **new ideas.**
 
+- 🥷🏻 As for the sake of my passion I also love robotics, so I learned Arduino well!
+
 - 👨‍💻 You may find my portfolio impressive! [devansh.pro](devansh.pro)
 
 - ⚡ I love to play [chess](https://www.chess.com/member/devansh-singh-parmar) whenever I'm free
 
-- 💬 Ask me about **react, javascript, mern stack, python.**
+- 💬 Ask me about **react, javascript, mern stack, python, robotics.**
 
 - 📫 How to reach me **devansh18dp@gmail.com**
 - [![](https://visitcount.itsvg.in/api?id=Devansh-Singh-Parmar&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
